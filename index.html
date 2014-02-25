@@ -1,0 +1,14 @@
+---
+layout: default
+title: IRL
+---
+<div class="jumbotron">
+<div id="home">
+  <h1>Documentation!!</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+<p>{{ post.date | date_to_string }}</span> &rarr; <a href="{{ post.url }}">{{ post.title }}</a></p>
+    {% endfor %}
+  </ul>
+</div>
+</div>

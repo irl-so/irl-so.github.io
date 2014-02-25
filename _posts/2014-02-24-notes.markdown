@@ -1,0 +1,91 @@
+---
+layout: post
+title:  "Day 1: Finding Myself On The Internet, Kind Of"
+date:   2014-02-24
+---
+
+Cool, today was my first day actually sitting at a desk in Eyebeam working on my project. Which didn't look like doing much, but I promise was actually working. Now I'm going to try to outline things I actually did today, because documentation. (FFS, I haven't kept a documentation log since like, high school. I apologize in advance.) 
+
+##TLDR Actual Things Done
+
+* I picked a desk (unless Zach Blas comes back tomorrow and is mad his desk is taken, sorry Zach Blas!!)
+* I learned about some neat command line tools (specifically `nettop` and piping terminal commands to files)
+* I had lots of thoughts about self-surveillance as a tactic and whether or not it's a good one
+* I looked at some tools for using the free MaxMind GeoIP databases and debated whether that's the thing I should use
+
+##Bibliography (or, news articles and blog posts and things I read when I was supposed to be doing work but got distracted)
+
+####["Philips and Ericsson to Use Streetlights to Expand Cellphone Coverage"][NYT-LED] 
+So this is an article about efforts by mobile carriers to improve mobile data coverage by using existing public infrastructure. It's a useful complement to this [earlier NYT article ][NYT-LED-NWK] about using LEDs for surveillance infrastructure, insofar as the infrastructure for those two intentions aren't all that different. (I still don't totally understand why LEDs are inherently useful to surveillance devices but hope to find out.)
+
+##Project Things
+
+So I'm supposed to be looking at architectural aspects of surveillance, which in some respects means looking at and locating architectural aspects of the internet itself. There were two things I started messing with doing to accomplish this: 
+
+1. Surveilling myself and geolocating all my internet traffic
+2. Using a [geolocated IP databases][geoip] in like, a totally stupid way.
+
+Here's some notes on how I might do those two things. 
+
+###Surveilling myself
+
+Finding data centers in the abstract is kind of tedious, uncertain work--you can look at sattellite maps of popular regions for data centers and do things like count air conditioning units and external generators, you can look for errantly added webcrawler data, but it still feels like a very small piece of the whole thing. 
+
+So I thought one way I could approach finding pieces of the internet is to look at my own pieces of the internet--as in, look at my own internet traffic, traceroute it, and see what that looks like. 
+
+The first thing I wanted to do was get a look at traffic--not just my browsing history, but basically all the things happening online too. There's a nifty command line tool called `nettop` that offers some really useful viewing of that. It gives me a really awesome long list of allll the network traffic happening on my machine at any given moment.
+
+![nettop screenshot](/img/nettop_screenshot.png)
+
+So this is a good start. But when I enter `nettop > output.txt` to store this stuff into a file, here's a sample what comes out when I open it in a text editor: 
+
+> [?1049h[1;41r(B[m[4l[?7h[?1h=[?25l[H[2J[1;67Hpackets in[1;85Hbytes in     packets out[116Gbytes out   rx dupe    rx ooo     re-tx  conn att
+[2d(B[0;1mdefault -> en1 -> 192.168.1.1[2;76H(B[m0[2;88H0 B[2;108H0[2;120H0 B[130G0 B[140G0 B[150G0 B[164G0[3;3H4.26.45.203[3;76H0[3;88H0 B[3;108H0[3;120H0 B[130G0 B[140G0 B[150G0 B[164G0[4;3H4.26.251.254[4;76H0[4;88H0 B[4;108H0[4;120H0 B[130G0 B[140G0 B[150G0 
+
+Whoaaaaa! What is this thing? 
+
+Since the main thing I'm interested in is mapping the IPs (not necessarily what they're doing on my machine), by comparing it to the terminal output, I think I can find the IP addresses and can regular-expression them out of these logs. I'm not doing that today, though. 
+
+The other thing I need to do is look at pulling and tracerouting all my emails. I think I know how I can do that, but I don't really want to tackle it today. 
+
+The implications of surveilling myself as a way to understand surveillance architecture wasn't really my initial intention. And I'm not totally sure it's an appropriate method for this project. Here are the main things: 
+
+* **It gives me a lot of raw material to work with**. That raw material might also offer some interesting information about who owns internet architecture--looking at some of the output from my network traffic even for just a minute suggested (unsurprisingly) that more than half of my own internet traffic was going to AWS servers. So that's kind of cool. Pulling random IPs doesn't really offer that information. 
+
+* **It gives me material to work with that feeds my own narcissism**. Kidding. Kind of. 
+
+* **Traceroute is a nice tool for illustrating how the internet works**. And I think a lot of the confusion about what online surveillance is and how it works comes from a public misunderstanding of what the internet is and how it works. 
+
+* **It places the artist in a position of vulnerability as a tactic for making the project accessibile.** The NSA and Google and all the other interested public-private parties can learn a lot about me from my internet traffic. Showing how much can be understood (or misunderstood) from my own data might offer a viewer some understanding of their own vulnerability. However, this tactic is probably more successful when it's made personal, as seen in the [MIT Immersion][immersion] project. 
+
+* **It's flawed because it's not necessarily some real-time thing, yet.**
+
+* **It's not the thing I wanted to do before**, which I'll explain next.  
+
+###Breaking GeoIP
+
+Initially I'd wanted to figure out a way to just reveal internet structures using one of the many . Most of these are proprietary with a free version, though the free version is kind of not great. They have applications for accessing the databases that are generally structured as input: IP address and output: geolocation data. 
+
+This works great if you're running a website and want to examine your specific traffic. What I wanted to do was work this the other way: given a set lat/lon input, I wanted to see IPs and their geolocation data within, say, a 1-mile radius of my input. 
+
+I started by looking at MaxMind's [GeoIP Lite][geoiplite] databases and the various third-party libraries built for them. The library that seemed the least scary to me was [this one][nodegeoip] in Node. (Someone had filed a [feature request][geoip-feature] about achieving similar objectives, which gave me hope this might be less work than I think it is.)
+
+Out of the box, it takes a given IP, does some math to find its corresponding netblock (which is basically a range of IP addresses, which are assigned to ISPs by a [registry][ARIN]). In the GeoIP Lite database, the netblocks are represented as integers (hence math). 
+
+###Obstacles To Lat/Lon-to-IP Lookup:
+* My own missing technical abilities (so I could maybe do it, but it's gonna take hella long)
+
+* The free versions of these databases aren't very good, so they might not provide as much interesting data as I'd like (which, OK fine I can look into the proprietary one *gosh*)
+
+* It only shows the network nodes in isolation, as opposed to showing the traceroute, which is a really useful tool for illustrating the interconnectedness of the internet.
+
+So this is a lot of stuff that happened today, I guess? More here as it develops. 
+
+[NYT-LED]: http://bits.blogs.nytimes.com/2014/02/24/philips-and-ericsson-to-use-streetlights-to-expand-cellphone-coverage/?_php=true&_type=blogs&_r=0
+[NYT-LED-NWK]: http://www.nytimes.com/2014/02/18/business/at-newark-airport-the-lights-are-on-and-theyre-watching-you.html
+[immersion]: https://immersion.media.mit.edu
+[geoip]: http://dev.maxmind.com/geoip/ 
+[geoiplite]: http://dev.maxmind.com/geoip/geoip2/geoip2-csv-databases/
+[nodegeoip]: https://github.com/bluesmoon/node-geoip
+[geoip-feature]: https://github.com/bluesmoon/node-geoip/issues/41
+[ARIN]: https://www.arin.net/
