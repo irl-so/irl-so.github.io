@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "I Just Read A Bunch Of Articles"
+date:   2014-02-25
+---
+
+Today I got pretty overwhelmed by some personal life and financial stuff and really didn't do much work specifically related to this project. Basically the most "this project" related work I did was loading up some old location data into [geojson.io](geojson) and jiggering with my settings in Gandi so that this repo directs to a domain. Small victories I guess. 
+
+Anyway. I'm just going to offer up some observations from some relevant articles I read today. 
+
+###[Red stack attack! Algorithms, capital and the automation of the common](redstack)
+So this is an article with a very compelling title, right? Right. And I wanted it to be better than it was, or maybe I just would have liked it more if it didn't have such a speculative tone. 
+
+I found this definition of algorithms in the text useful: 
+
+>An algorithm can be provisionally defined as the “description of the method by which a task is to be accomplished…’ by means of sequences of steps or instructions, sets of ordered steps that operate on data and computational structures...
+
+I appreciated the definition probably because it sounded more like a description of a Sol Lewitt piece. The article goes on to say:
+
+>From the point of view of capitalism, however, algorithms are mainly a form of ‘fixed capital’, that is they are just means of production. 
+
+So the author's trying to argue how algorithms could be *not* that, which doesn't seem that crazy but felt very "theory people broadly articulate tech things in search of meaning." (I do this all the time, so like, whatever.) 
+
+It also talks a little about Benjamin Bratton's idea of the 'stack' -- it's funny that Bratton's written a geopolitical model that resembles technology, when lately I've been way into finding examples of how technology looks like geopolitical (or urban political) constructs. So instead of saying the city is like a computer, comparing targeted advertising and hyper-niche social networks to suburbanization. 
+
+I like comparing the technical to the geographic more than the other way around because at the end of the day, everything still exists somewhere. But Bratton's been doing this a lot longer than me (and he's a man), so maybe I'm just crazy (or a silly woman!). 
+
+
+###[Knightscope’s new robotic law enforcer is like staring at the demise of humanity](knightscope)
+Clickbait, yes, but it's pretty relevant to my interests (algorithms, law enforcement, things where I get to make *Robocop* jokes). And the founder of the company is practically doing that last part for me.
+
+> Santana Li has different rationales for why Knightscope should exist. It is going to be offered as a “machine as a service business model,” he says. It will retail for $3,000 a month. The machine works 24 hours a day, 7 days a week, which he reminds us works out to about $4 an hour with “no pension liability.”
+
+I remember reading about this thing in the New York Times a while ago, its backstory as a project that came about after the Sandy Hook elementary shootings. I remember when that happened hearing criticism that it took something horrible happening all at once to basically privileged people in Connecticut to get the public to care about gun control, when so, so many black and brown children in cities like Chicago die from gun violence. But those are perceived as different problems, even though making it harder to access firearms (and living in a world that isn't totally cruel and alienating and systemically fucked up) would probably have been helpful to both scenarios. 
+
+That origin story and another line in the article about how "It’s less a crowd control tool than a behavioral control device" made me think about who this technology serves. I can totally imagine it in like, bank lobbies and gated communities. Given the cost, that's probably the demographic Knightscope is most interested in. Anyway, once surveillance drones in domestic airspace become a thing, no one's going to want a five-foot-tall Roomba going around doing law enforcement. (HA HA HA DYSTOPIA IS GREAT.)
+
+[geojson]: http://geojson.io
+[redstack]: http://www.euronomade.info/?p=1708
+[knightscope]: http://pando.com/2014/02/24/knightscopes-new-robotic-law-enforcer-is-like-staring-at-the-demise-of-humanity/

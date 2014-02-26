@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day 1: Finding Myself On The Internet, Kind Of"
+title:  "Finding Myself On The Internet, Kind Of"
 date:   2014-02-24
 ---
 
