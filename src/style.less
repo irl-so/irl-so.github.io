@@ -1,0 +1,60 @@
+@blue: #1E7678;
+@teal: #358C6A;
+@green: #6D9C53;
+@yellow: #CAAF4A;
+@gray: #eee;
+
+@media screen{
+
+
+body{
+	background-color: @gray;
+}
+
+hr{
+	color: 1px solid #fff!important;
+}
+
+h1, h2, h3, h4, h5{
+	font-family: "adobe-caslon-pro", "times", serif;
+	font-weight: 600;
+}
+h1{
+	text-transform: uppercase;
+	font-size: 60px; 
+}
+
+h2, h3, h4{
+	font-weight: 400;
+}
+
+.navbar, .navbar-default, .navbar-collapse, .navbar-header{
+	background-color: @blue;
+	a{
+	color: lighten(@teal, 30%)!important;
+	&:hover{color: lighten(@yellow, 20%); text-transform: none; text-decoration: none!important;}
+	text-decoration: none;
+	}
+}
+
+p{
+	font-family: "runda", 'helvetica', sans-serif;
+	font-size: 14px;
+
+}
+
+code{
+	background-color: lighten(@yellow, 25%);
+	color: @teal;
+}
+
+blockquote{
+	background-color: lighten(@yellow, 40%)
+}
+
+a{
+	color: @teal;
+	&:hover{color: @yellow;}
+	text-decoration: none;
+}
+}

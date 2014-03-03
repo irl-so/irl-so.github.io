@@ -85,7 +85,7 @@ So this is a lot of stuff that happened today, I guess? More here as it develops
 [NYT-LED-NWK]: http://www.nytimes.com/2014/02/18/business/at-newark-airport-the-lights-are-on-and-theyre-watching-you.html
 [immersion]: https://immersion.media.mit.edu
 [geoip]: http://dev.maxmind.com/geoip/ 
-[geoiplite]: http://dev.maxmind.com/geoip/geoip2/geoip2-csv-databases/
-[nodegeoip]: https://github.com/bluesmoon/node-geoip
-[geoip-feature]: https://github.com/bluesmoon/node-geoip/issues/41
-[ARIN]: https://www.arin.net/
+[geoiplite]:http://dev.maxmind.com/geoip/geoip2/geoip2-csv-databases/
+[nodegeoip]:https://github.com/bluesmoon/node-geoip
+[geoip-feature]:https://github.com/bluesmoon/node-geoip/issues/41
+[ARIN]:https://www.arin.net/

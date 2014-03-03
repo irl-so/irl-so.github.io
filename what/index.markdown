@@ -3,9 +3,8 @@ layout: what
 title: 'what'
 ---
 
-This is a repository of writing, images, data, and recordings relevant to a project I'm starting as a resident at [Eyebeam](http://eyebeam.org). It's kind of a way to hold me accountable by making me do something every day, and it's also kind of a way to make the project itself live in more places.
+###This is a repository of writing, images, data, and recordings relevant to a project I'm working on as a resident at [Eyebeam](http://eyebeam.org). Ostensibly it is about the ways that systems of surveillance and control influence
 
-##IRL
 
 **The internet is and has always been real life.**
 
@@ -25,12 +24,10 @@ I believe that the question of *who owns the internet* cannot be answered withou
 
 **Surveillance architectures**
 
-Technically this started out as a project about the physical realities of surveillance. And it still is about that, insofar as it is about how surveillance requires architectural choices. Surveillance is a means of establishing asymmetrical power relations --- you know (or can conjecture given data) my next move, I don't know yours. 
+Surveillance is a means of establishing asymmetrical power relations --- you know (or can conjecture given data) my next move, I don't know yours. Or, you will see my movements, and the consequences will be dire, so I will not make them. Certain architectures serve surveillance better than others. 
 
 To some extent, whoever controls infrastructure controls surveillance. And those who get to control the infrastructure ultimately tend to be whoever has access to the most weapons --- in this case mainly weapons like the law, money, and math. 
 
 **My IRL is not your IRL**
 
-All this is to say that on an interface level *there are many internets* --- for me, I access the internet primarily one mobile device and a laptop. These both have particular operating systems, and they've been a presence in my life for x number of years. There are lots of people whose internet lives take place in different architectures --- only mobile devices, only library computers between specific hours during the week, at school, at home at all hours. 
-
-Most of the people I consider closest peers these days are friends I made on the internet. This probably says more about me, my demographic, and an approaching generational shift than about all people all over using the internet.
+All this is to say that on an interface level *there are many internets* --- for me, I access the internet primarily one mobile device and a laptop. These both have particular operating systems, and they've been a presence in my life for x number of years. There are lots of people whose internet lives take place in different architectures --- say, only on mobile devices, only on library computers between specific hours during the week, only at school. I speak from a highly privileged internet, and I need to be up front about that. 

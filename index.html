@@ -2,13 +2,17 @@
 layout: default
 title: IRL
 ---
-<div class="jumbotron">
-<div id="home">
-  <h1>Documentation!!</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-<p>{{ post.date | date_to_string }}</span> &rarr; <a href="{{ post.url }}">{{ post.title }}</a></p>
-    {% endfor %}
-  </ul>
-</div>
+<div class="container">
+	<div class="row">
+		<div class="col-md-12">
+			<h1>IRL</h1>
+			<hr>
+			<h3>Mostly Weird Notes Meant to Demonstrate That I Am Still Alive:</h3>
+		</div>
+	    {% for post in site.posts %}
+	    <div class="col-md-3">
+	    <p>{{ post.date | date_to_string }}</span></p><p><a href="{{ post.url }}">{{ post.title }}</a></p><hr>
+	    </div>
+	    {% endfor %}
+	</div>
 </div>
