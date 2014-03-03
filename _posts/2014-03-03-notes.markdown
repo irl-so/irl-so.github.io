@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "More Self-Surveillance, More Reading, Also a Dog"
+date:   2014-03-03
+---
+
+HA HA HA good joke, James Bridle took Zach Blas' desk, so I'm in a different desk. And James turned his to face the window which technically means he's facing me which is *not at all creepy James*, I'm definitely not self-conscious about being watched as I work right now. 
+
+This is what happens when you get sick and you are out the rest of the week and don't claim your desk.
+
+I still need to get a lamp. 
+
+##TLDR What I Actually Did Today
+
+* Mostly tinkering with [logstash](http://logstash.net), which is a useful thing for, well, what it sounds like. Basically what I'm trying to do is take data from tcpdump logs and turn it into structured data I can store in an S3 bucket, because storing that kind of data on my personal computer sounds like a bad idea. I am....12% to where that needs to be to work. 
+
+* Also going back to some old and ongoing things, including moving [this project](http://irl.so/crypto-city) to this domain and looking back at things for this still-in-progress piece on data centers that's about two months past due. 
+
+##Why it's taken me this long to not finish a longform piece on data centers. 
+
+* **My dad died.** A lot of deadlines and career choices were interrupted by that. I'm fucking *sorry*. Incidentally, fuck everyone. (Not really.) (Only sometimes.)
+
+* **I'm not sure it's actually interesting**. Or, it's not interesting in the same way that other things people like to read about surveillance are interesting. Mostly it doesn't read as a sexy Spy vs Spy artist-investigates-surveillance state thing, which I'm honestly kind of not that into. Unfortunately, people really like that sort of thing. 
+
+* **My editor really wants it to be about resistance. I'm not sure what it *is* about, but it's really not about that.** It's more about how infrastructure influences place. The infrastructure in the text happens to be instrumental to surveillance. I think my editor wants me to say, "you can and should escape data centers logging your information" or "you should go protest in front of data centers." Those are asinine propositions and I don't want to make them. But I'm not sure there's really a *there* there right now. 
