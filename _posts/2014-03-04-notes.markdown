@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Two Steps Forward, Three Steps Left, One Step Backward, Then Spin In A Circle Until You Throw Up"
+date:   2014-03-04
+---
+
+Today I figured out more of the technical side of this self-surveilling thing (and now have a really big and growing CSV file of all my computer-based internet activity). Wondering if/how to do that with my cell phone internet activity and my location data. Figuring out how to make a CSV of all my personal data seemed like a pretty cool accomplishment, except then I spent a few hours seemingly incapable of adding a goddamn custom marker icon into a geoJSON (see [here](http://irl.so/cloudy))--which is one of those "I know I did this once, why is this so impossible *now*" problems that I'm pretty sure remembering to eat and StackOverflow can fix. (What problems *can't* remembering to eat and StackOverflow fix?) 
+
+Also talked through that unfinished essay with my incredibly patient editor and I think have a clearer sense of direction with finishing the piece. It's not so much that it needs to be *about* resistance so much as he wants me to illustrate the complexity of resistance here. 
+
+I keep comparing it to banks, maybe because both banks and the internet are presently perceived as too big to fail. If internet infrastructure is like finance infrastructure, a data center's like a bank branch. Going and doing a rally or a protest at a Chase branch and withdrawing assets from it doesn't directly hit Jamie Dimon. It's lower-risk, and consequently perceived as lower-impact. But performed in *aggregate*, and *continuously*, it's really, really powerful. But going to a data center and picketing isn't really reflecting it in the same way. DDOS kind of does this, although it's easier to fake mass human participation in a DDOS than in a public protest. 
+
+Also apparently I have homework from Eyebeam for next week's resident check-in meeting. I have to articulate "what I do." Send help. 
