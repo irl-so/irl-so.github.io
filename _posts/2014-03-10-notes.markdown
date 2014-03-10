@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "What We Talk About When We Talk About Mapping Surveillance"
+date:   2014-03-10
+---
+
+One of the things that comes up a lot when people start talking about mapping surveillance is how useful it would be to map CCTV cameras. That was something I remember talking about a lot in 2012 during Occupy Wall Street, though it was something that never really became a macro project--it was usually only important in a particular context (i.e., mapping all the cameras in New York City? Meh. Mapping the cameras in the Financial District for the purpose of planning an action? Doable.). 
+
+As someone interested in maps, surveillance, and uh, mapping surveillance, I'm ambivalent about making camera maps. Maintaining them requires enormous overhead, and it's not always clear what function they serve. 
+
+Generally, maps of surveillance cameras are meaningful *because* they don't exist. Some cities are gracious enough to provide maps of police-run surveillance cameras (specifically [Baltimore](https://data.baltimorecity.gov/Crime/CCTVMAP/nn6t-vxz4)), but generally this isn't widely available information. It's not as though they're actually *hidden*--you can see surveillance cameras on the street. Not releasing the locations in aggregate is basically just a means of maintaining information asymmetry.(I just tried, out of curiosity, [submitting a FOIA](https://t.co/IxzdlOpEcL) for locations of NYPD surveillance cameras today; we'll see how that goes.) 
+
+The absence of publicly available resources leads to someone (usually an activist) getting really excited, for a brief period at least, about community-driven camera mapping. Probably my favorite example is the [iSee map](http://www.appliedautonomy.com/isee.html) that was made by Eyebeam residents in 2001. But it seems like most efforts to maintain regularly updated maps of city surveillance systems have never really taken hold. [Surv](http://survapp.co/), a crowdsourcing surveillance camera app, didn't reach its Kickstarter goal for funding when it first launched and is seemingly sort of just lingering. Researchers from the MIT Center for Civic Media did some work on this in [Oakland](http://civic.mit.edu/blog/beckyh/icu-oakland-surveillance-camera-walking-tours-and-anti-surveillance-community-organizing) using [Vojo](http://vojo.co) that appears to be [sporadically updated](http://vojo.co/icu), but isn't really centrally organized or maintained.
+
+Honestly, that's the biggest lack in counter-surveillance: keeping up and staying dedicated to it. Which is actually just the problem of all organizing on the left, like, ever (thinking about the conversations I've had with [Matthew](http://t.co/splsgKO5OJ) about [LittleSis](http://littlesis.org) and whether it constitutes a failure). 
+
+One useful method for generating maps of surveillance cameras with minimal overhead that I like is using OpenStreetMap data. So far I've found [two](http://www.leretourdelautruche.com/map/cctv/cctv.html) examples of [this method](http://osmcamera.tk/); I'm curious how it could be used to get people in the U.S. both more amped on OSM and amped on mapping surveillance cameras. 
+
+One of the big challenges of mapping surveillance cameras in a city is that many cameras in a city are privately owned--not only do numbers fluctuate, who owns them does too. Then again, that issue is kind of deemed irrelevant in a place like New York, where a huge number of private surveillance camera feeds are part of the [NYPD Domain Awareness System](http://www.youtube.com/watch?v=TxMz0Yoa2-Y). Essentially, all cameras--public and private--can be law enforcement cameras. 
+
+Is it more useful to know where the cameras are, or to know about the centralized spaces where their feeds converge? (For what it's worth, New York's Domain Awareness System is, according to this City Planning Commission document, at [55 Broadway](http://www.nyc.gov/html/dcp/pdf/cpc/080035.pdf)) 
+
+Is it more useful to do a micro organizing-from-below approach, promoting a city-wide game of [CamOver](http://www.theguardian.com/theguardian/shortcuts/2013/jan/25/game-destroy-cctv-cameras-berlin), or to disrupt the centralized hub that accesses the cameras (and sends data to [handheld tablets](http://www.ny1.com/content/news/204682/nypd-pilot-program-to-use-tablets-to-test-crime-data-app) that are currently being piloted by the NYPD)?
+
+All this to say: if I get data from the NYPD about the geography of the Argus system, awesome. If I could somehow convince a community organization that funding a long-term project to maintain a corps of researchers to map surveillance cameras was a good idea, awesome. But mapping all the cameras might just be a form of misdirection away from how, where, and by whom the cameras are used. 
