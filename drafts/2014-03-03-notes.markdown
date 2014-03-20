@@ -4,14 +4,6 @@ title:  "More Self-Surveillance, Inventorying Broken Work, Also a Dog"
 date:   2014-03-03
 ---
 
-HA HA HA good joke, James Bridle took Zach Blas' desk, so I'm in a different desk. And James turned his to face the window which technically means he's facing me which is *not at all creepy James*, I'm definitely not self-conscious about being watched as I work right now. 
-
-This is what happens when you get sick and you are out the rest of the week and don't claim your desk.
-
-I still need to get a lamp. 
-
-OH. And someone brought a dog.
-
 ##TLDR What I Actually Did Today
 
 * Mostly tinkering with [logstash](http://logstash.net), which is a useful thing for, well, what it sounds like. Basically what I'm trying to do is take data from tcpdump logs and turn it into structured data I can store in an S3 bucket, because storing that kind of data on my personal computer sounds like a bad idea. I am....12% to where that needs to be to work. 

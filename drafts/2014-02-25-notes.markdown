@@ -4,10 +4,6 @@ title:  "I Just Read A Bunch Of Articles"
 date:   2014-02-25
 ---
 
-Today I got pretty overwhelmed by some personal life and financial stuff and really didn't do much work specifically related to this project. Basically the most "this project" related work I did was loading up some old location data into [geojson.io](geojson) and jiggering with my settings in Gandi so that this repo directs to a domain. Small victories I guess. 
-
-Anyway. I'm just going to offer up some observations from some relevant articles I read today. 
-
 ###[Red stack attack! Algorithms, capital and the automation of the common](redstack)
 So this is an article with a very compelling title, right? Right. And I wanted it to be better than it was, or maybe I just would have liked it more if it didn't have such a speculative tone. 
 

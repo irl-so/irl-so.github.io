@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Ways of Seeing Being Seen"
+date:   2014-03-20
+---
+
+So the questions I've been spending a lot of time with is kind of a dumb question, and it's *how do you see surveillance?* A lot of the visual culture around it is filled with the same plausible deniability that envelopes the policies it depicts--not only in terms of screens but in terms of cameras. But we also increasingly see surveillance interfaces accompanied by human faces as wearables.
+
+![Police camera](http://i.dailymail.co.uk/i/pix/2014/01/11/article-2537516-05BD88480000044D-222_634x392.jpg)
+
+James was explaining that these small cameras on London police are an increasingly everyday thing. They remind me vaguely of Frankenstein's monster with the bolts or of a science fiction parasite. The cameras are an augmentation that extends someone else's power, but not necessarily the power of the person using it or the people under its gaze. 
+
+(I don't even really want to get into Glass, especially given that Susie Cagle already covered it really, really well over at [Medium](https://medium.com/the-nib/59e09d27432a); but one point that her piece makes that I really appreciated is the fact that equipping police with cameras isn't always entirely a way to normalize surveillance of citizens. It also can be a way to hold the police themselves accountable--assuming, of course, that the people who control the cameras themselves are accountable, and what else the camera can offer. NYPD forced to wear cameras? Rad, Copwatch people love it. NYPD with Google Glass? GTFO.)
+
+We "see" surveillance through the instruments of seeing--the devices--though less by the humans that manipulate those instruments or the endpoint where the images captured by cameras are actually seen. Generally, when we see surveillance camera images, it's in the aftermath of something terrible happening--catching someone in the act. 
+
+I hadn't previously really thought of surveillance cameras as *infrastructure* because I want to *personify* cameras--they have eyes (or an eye), after all. Infrastructure suggests conduits, cables, pipelines, maybe endpoints (reservoirs, power plants). But the cameras are themselves conduits, albeit conduits that are being given an increasingly alarming amount of agency. 
+
+To some extent this question is actually just a segway into another question, which is *how do you see the internet?* And for the most part, the answer is through interfaces--browser windows, mobile applications, and yes, wearables. They see *content* delivered to them, but not the *process* by which that content is delivered. 
+
+For the most part, maybe, people don't really want to see the process. Weirdos like me want to. When I was trying to explain this interest to someone, he winced and said, "I don't really need to know how the sausage gets made." Which, I'll concede, is a popular and reasonable position. Unless you've read *The Jungle*. (And unless you've watched the emergence of ag-gag legislation throughout the United States.)
+
+The actual locations and ownership of fiber cables is pretty proprietary information, at the level of things like [submarine cables](http://submarinecablemap.com) or in isolate on [individual carrier sites](http://maps.level3.com). Trying to get a bigger portrait tends to remain the purview of [super expensive services](http://geo-tel.com). 
+
+It probably says more about me than about the way things are that I didn't actually realize that this *was* the way things generally are. Infrastructure geography isn't really common knowledge, and it's not that easy to find. Try to look for information about oil pipelines. You'll find things like a kind of [crappy GIS interface from the state of Texas](http://www.rrc.state.tx.us/data/online/gis/index.php) and a collection of [image files from the EIA](http://www.eia.gov/pub/oil_gas/natural_gas/analysis_publications/ngpipeline/ngpipeline_maps.html) that have been vetted for security purposes. 
+
+I totally understand the concern that revealing infrastructure opens up a public to a terrorist attack or threat or whatever. But with internet infrastructure I think it's sort of missing the point. By virtue of it being a network, it's resilient by design. The amount of effort and resources it would take to knock out the whole of the infrastructure assumes an adversary that frankly, suggests we're going to have much bigger problems. 
+
+Basically, I'm working on this thing trying to visualize surveillance infrastructure (and, by extension, internet infrastructure) and I'm getting really worked up about whether or not people are going to think I am a terrorist or an advocate of terrorism. My motives are basically that I think it's hard for people to grasp how they are connected to something much bigger than themselves when that connection is reflected in a browser window, in a series of tabs, in a login page on Facebook. Seeing how one is connected to something that has a really massive geographic reach, I hope, conveys how many people and resources are required to keep this whole ship running--that it isn't magic, it isn't a wholly unaccountable thing. 
+
