@@ -1,0 +1,57 @@
+---
+layout: post
+title:  "Here Are Some Places NYPD Spying Might Happen, Part 1"
+date:   2014-03-24
+---
+
+When trying to visualize how surveillance happens in the world around me, it seems kind of important to look at how law enforcement agencies fit into that landscape. I was curious whether I could use publicly available datasets to learn more about where law enforcement surveillance happens in New York City--which is actually in a lot of places. For right now I'm just going to talk about the Intelligence Division. 
+
+###The Chelsea Market
+
+In *Enemies Within*, Matt Apuzzo and Adam Goldman note that the FBI's Joint Terrorism Task Force has an office on the tenth floor of a building next to the Chelsea Market. They also note that the NYPD's Intelligence Division had an office literally *across the street* from the FBI office: 
+
+> NYPD Intelligence...was across the street from the FBI's office in Chelsea, above the upscale food court of Chelsea Market...There was even a footbridge connecting the FBI and Intel offices. But it was locked at both ends. The two organizations never quite seemed to be on the same team. (Apuzzo and Goldman 18)
+
+When I'm working at Eyebeam, I like taking longer walks over there or from there so I can pass by this area and look at the (unused) bridge between the two buildings. 
+
+I knew that Apuzzo and Goldman's information was accurate, but I wanted to see what, if any, paper trail existed for it--and for that matter, for any of the places that the NYPD's surveillance work takes place. 
+
+The [Integrated Property Information System](https://nycopendata.socrata.com/Housing-Development/IPIS-Integrated-Property-Information-System-/n5mv-nfpy) (IPIS) is a "database of City-owned properties and private properties that the City leases for City agency" use. It includes schools, parks, police precincts, and offices. The dataset includes a column for BBL ("borough block and lot") number, a unique building identifier which is the magic key that makes it possible to join IPIS data with [MapPLUTO](http://www.nyc.gov/html/dcp/html/bytes/dwn_pluto_mappluto.shtml) data. 
+
+So I started with a map of the properties that are city-owned or city-leased in Manhattan (data [here](https://github.com/irl-so/irl-so.github.io/blob/master/data/mnmappluto_cityonly.geojson)), then I made a map of city properites in all five boroughs that list "NYPD" as the primary agency at that property (data [here](https://github.com/irl-so/irl-so.github.io/blob/master/data/nypd_properties.geojson))
+
+![Chelsea Market](http://irl.so/img/chelseamarket.png)
+
+Both the Chelsea Market and the building across the street are listed in IPIS as properties that the Parks Department has under a short-term agreement. Presumably these are offices connected to the nearby High Line park. This isn't a confirmation of JTTF or NYPD Intel leasing of properties, but it is kind of helpful to know that another city agency *is* listed as connected to those documents. 
+
+(More on this in the near future, but as [Cryptome has already noted](http://cryptome.org/2013-info/09/nyc-spy-syzygy/nyc-spy-syzygy.htm), NYPD Intel and JTTF are really really close to 111 Eighth Avenue, the gigantic data center and internet exchange that also houses Google and a host of other telecommunications companies.)
+
+###What's kind of weird here 
+
+Going through NYPD properties in the dataset, this entry comes up: 
+
+![315 Hudson](http://irl.so/img/315hudson.png)
+
+This is 315 Hudson Street, a building that the IPIS_PARCEL column lists as "Intelligence Division". It's also apparently home to the [NYPD Internal Affairs Bureau](http://www.villagevoice.com/photoGallery/index/2255354/0/). 
+
+A [2007 article](http://nymag.com/nymetro/news/features/n_8286/) at *New York* magazine describes a counterterrorism bureau office "buried deep in the heart of one of New York's outer boroughs, in an area inhabited by junkyards and auto-body shops."
+
+###Other interesting things in the data
+
+![55 Broadway](http://irl.so/img/55broadway.png)
+
+55 Broadway has been previously documented as home to the Domain Awareness System (formerly the Lower Manhattan Security Initiative). (It's also home to the [ProPublica New York offices](https://www.propublica.org/about/contact), which is cool.) Its parcel use is listed as "NYPD" and its primary use is listed as "AGCY OFFICE." 
+
+![One Police Plaza](http://irl.so/img/1pp.png)
+
+As long as we're just highlighting places where big surveillance infrastructure exists, One Police Plaza has, apparently, hella screens in its [Real Time Crime Center](http://www.nydailynews.com/news/crime/nypd-49m-nerve-center-fighting-crime-article-1.952481). 
+
+###Some conclusions from this
+
+* Using city data to learn more about NYPD surveillance activities isn't necessarily the most productive or precise method, but it does provide some insight into how the NYPD might cover its tracks sometimes. If you're interested, again, the data's [here](https://github.com/irl-so/irl-so.github.io/blob/master/data/nypd_properties.geojson). More city agency data by borough forthcoming.
+
+* The IPIS dataset was created July 26, 2011, and last updated on June 21, 2013. Things previously confirmed that aren't in IPIS (like the Intelligence Division office) could have moved (honestly, unlikely) or offices could have moved from where they are listed in IPIS. 
+
+* There might be something useful in looking at the vaguely identified places (e.g., the way 55 Broadway's use is just "AGENCY OFFICE"s). 
+
+* ####I have hella hella more work to do. 
