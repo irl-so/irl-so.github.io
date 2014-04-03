@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Internet Groundtruth"
+date:   2014-04-03
+---
+
+I'd been really frustrated by my pursuit of internet infrastructure information because it seemed like *some* people could easily get this kind of material, but I was not among those people. If you're an academic researcher, or you have a book deal and write for *Wired*, or you work in real estate, or you just happen to have tens of thousands of dollars to spare, it's apprently not so hard to find out about where fiber lines run. If you want to make an art project? If you're just a person? Not so much. 
+
+I'm generally a terrible liar, so my efforts to cold-call other people working in this area of research led to a lot of dead ends and awkward propositions. Demoralized, I stepped back and tried to think of where *else* I could see infrastructure, if not from a top-down view. 
+
+##Bottom-Up Infrastructure Tactic 1: Look Down
+
+In remote senseing, *ground truth* refers to information collected on location. It's the surface information that confirms images captured from above. So to find the physical remnants of the internet, I had to start looking down. 
+
+A lot of infrastructure in New York City is buried underground. For a city renowned for its verticality, it's got a lot going on underground. This illustration from the [NYC Department of Transportation's Street Works Manual](http://www.nyc.gov/html/dot/streetworks/html/home/home.shtml) conveys the idea quite nicely. 
+
+![sidewalk](http://irl.so/img/dot_slice.png)
+
+We can't see that slice of the street most of the time. But it's there, and one way that it's pretty easy to figure out if it's there is to look at the ground.
+
+![sidewalk](http://irl.so/img/sidewalk.jpg) ![sidewalk](http://irl.so/img/sidewalk_2.jpg)
+
+There's actually a federal color-code standard for sidewalk markings, and New York follows that standard. 
+
+![colors](http://irl.so/img/dot_colors.png)
+
+Orange refers to the broad catch-all of "Communications, alarm, signal lines, cables and conduit." This means that orange lines could be internet cables, television cables, telephone lines, or other kinds of conduits. 
+
+Now that I understand what the sidewalk markings signified, I've started thinking of them as not unlike the postal horn in *The Crying of Lot 49*. It gives something kind of banal that I'd taken for granted a little bit of mystery--hints of the infinitely complicated infrastructure beneath my feet that quietly connects thousands of people, places, and things. 
+
+As the weather gets warmer, I'm planning to just go out to places near big well-known pieces of internet infrastructure and start...well, following the signs. We'll see how that works out. 
+
+![Time Warner Cable Repairs](http://irl.so/img/twc.jpg)
+
+##Bottom-Up Infrastructure Tactic 2: Submit a Fairly Ridiculous FOIL Request
+
+All of the information that I could find about the sidewalk markings I found through the NYC Department of Transportation. The DOT website also has a section for checking out [information about active permits for sidewalk construction](http://a841-dotweb01.nyc.gov/permit/permit/web_permits/permitsearchform.asp).
+
+Active permits can tell you about what's going on, but not so much about what's been done over time, or what's already there. So I submitted two FOIL requests for permits issued over the last five years for installing and repairing cables and for microtrenching in two sections of Manhattan. I chose those places kind of as a test--asking for everything from all five boroughs will definitely be prohibitively expensive and the areas I requested have buildings that are major pieces of internet infrastructure.
+
+![FOIL](http://irl.so/img/foil.png)
+
+I am pretty sure that the requests are going to be denied. But the obstacles to getting the content feels increasingly part of the point of this project. If I'm playing Oedipa Maas to the hidden-in-plain-sight communications and surveillance infrastructure of my surroundings, I kind of have to spend the majority of my pursuit uncertain as to whether or not I am actually going insane. 
