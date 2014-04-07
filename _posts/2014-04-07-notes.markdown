@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "Save The Data Drama"
+date:   2014-04-07
+---
+
+<blockquote class="twitter-tweet" lang="en"><p>Bound for the strange hinterland of New Jersey. Tell my family I love them.</p>&mdash; Ingrid Burrington (@lifewinning) <a href="https://twitter.com/lifewinning/statuses/452036532732715009">April 4, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+This past weekend I attended [Data Drama](https://soa.princeton.edu/sites/default/files/2014%20Data%20Drama_FINAL-0318.pdf), a conference coordinated by Liam Young at the Princeton School of Architecture. I was not a speaker at the event, but I inserted myself into the conference in what, honestly, has become my preferred method: Twitter. 
+
+This is a very particular niche that I've unintentionally become really, really good at. When I'm at a lecture or a conference that happens to have a hashtag, I use it. A lot. It's faster than hand writing notes, can be done with a small device instead of a cumbersome laptop, and apparently some people on Twitter enjoy when I do it. (I'm not sure if people at conferences do; Liam told me that my tweets were "catty" so I think that means he was Not A Fan But Politely Endured It, possibly because he recognized I was friends with some of the Right People There.)
+
+What follows are more reflections on the conference itself than the content therein. The content was really really *really* important, but a lot of my thinking on the content comes out of the context of the event. 
+
+##Place
+
+The train to Princeton from New York is basically a tour of class disparities and urban planning failures of New Jersey. (I imagine someone has written that essay already.) Princeton University itself is composed of greenery, impressive architecture, and almost no signage. You expect wizards, and may be confused when you don't see any. Getting off the campus to go to what constitutes downtown is pretty confusing if you're not from there. The architecture school has lots of polarized film on windows and promotional videos for Very Exciting Remote Sensing and Visualization startups.
+
+A location rife with beautiful signifiers of gentle exclusion seemed an ideal place for a conference like this. Within a few minutes of Friday's talks beginning, it became clear that almost everyone at this event knew each other, and if they didn't know the speakers they were probably grad students. I came to this thing from a periphery: close enough to some of the speakers to not be totally isolated, making work that's relevant to the topic, but not transactionally useful to the majority of the people there. 
+
+I admittedly have a knack for showing up in places where I am out of place. I tend to show up to such places bearing a massive, posture-ruining, class warfare chip on my shoulder. Some of this comes from the fact that being *alive* feels like being out of place, because honestly I wake up every day amazed that I'm still alive after an unrelated incident in 2009 that I don't really want to talk about.  
+
+One side effect of my terrible posture is that I'm a terrible liar. When faced with the elaborate theater of someone trying to convince me that this is the hippest data center ever or that he is the Most Important Man In The Room, I kind of just start laughing. And when I start to get worked up about how *out of place* I am in a given situation, I get defensive and snarky. 
+
+This isn't necessarily an apology (I don't think I have to apologize for for thinking that careerism is silly or for having reactions to however unintentionally hostile spaces); just context on the off-chance any of the Serious Important Men of Data Drama (who perhaps hereafter should be called the Data Drama Queens) who were probably annoyed with me read this. Don't worry guys, I'm just a silly woman living paycheck to paycheck, don't mind me.
+
+##Privilege
+
+Snark aside, I appreciated that even Liam recognized, and called out, that it was Fundamentally Fucked that there were only two women speakers on the entire schedule for the conference (though I'm not sure if he saw it in light of the irony that "drama" is such a gendered term). It would have been helpful to know *who* else he invited and *why* exactly they said no--because there is a big difference between "No, I'm busy" and "No, I don't want to speak at an event with That Guy or That Other Guy." 
+
+Honestly, I don't really *like* being the person at a gendered, privileged event talking about gender *or* privilege, because I know that I have *so much* privilege, and I don't want to claim to speak for the marginalized who are not in the room. Hell, we didn't even really get into how deeply *white* the conference was (in both speaker and audience makeup). There was a uniquely awkward moment when, during a Q&A session, filmmaker Ben Lewis complained about the difficulty he encountered finding people to interview who were concerned about or negatively affected by surveillance--this after James Bridle had given a talk about [British citizens stripped of their citizenship essentially so they could be droned](http://www.thebureauinvestigates.com/2013/02/27/former-british-citizens-killed-by-drone-strikes-after-passports-revoked/). The anger at Lewis' apparent ignorance was palpable, but not necessarily productive--while yes, someone probably should have said "Ben, perhaps you should consider speaking to people who *don't look like you*", there weren't that many examples of such people to point to in that conference room at Princeton. 
+
+Honestly, that was a running theme through the day for me--so many of the conversations came from theoretical vantage points from people working at the top of their fields. When Data Drama Queens talk about the risks being faced in our new data age, the future adaptations of cyborg humans, the potential of World 2.0, who is actually being spoken about or spoken for? To what extent are these speculations of the future posed more or less for *people like them*? 
+
+There were some really, really wonderful talks that broke from this tone. Hearing Usman Haque talk about his work connecting citizen science initiatives and the work he did with Natalie Jeremijenko, was great. Hearing Kate Crawford cite [Virginia Eubanks' work](http://prospect.org/article/want-predict-future-surveillance-ask-poor-communities) on surveillance and EBT was super appreciated. Tim Maughan reading "[Zero Hours](https://medium.com/the-future-of-work/f68f17e8c12a)" reminded me of, honestly, a lot of my work days as a freelancer. And I appreciate that a conference of this nature has to have a variety of perspectives, including the perspective oblivious to its own privilege. If anything, I'm grateful that being in a context that made me so, so aware of privilege disparities made me interrogate my own, I guess. 
+
+##Magic
+
+The aesthetics of the slide talks and much of the work presented varied--from Metahaven's seapunk-Geocities collages to Adam Harvey's apparently oblivious fashion magazine-glossy male gaze--but there was a frequently ambivalent return to a rhetoric and aesthetics of awe. Despite ourselves, we are kind of in love with the technology, even if it is in the hands of the oppressor, and that's hard to reconcile. 
+
+Early on during Saturday's talks, a Q&A got into a discussion of magic, and that's the thing I keep coming back to. I'm not sure what that's going to look like, but I think it's got a lot of potential. I am for a dialogue on technology and society that allows for weirdness, allows for vulnerability, allows for humanity, requires a certain amount of faith, and isn't about pure mastery. I think there's more space for that in the language of magic, I don't know. Mostly I wanted to know how many of the people at that conference listen to [Welcome to Nightvale](http://commonplacebooks.com/). 
+
+##Time and Length
+
+The conference went over time, and I definitely went over time in the amount of time I spent writing about it. I probably need to do more writing about some of the things at Data Drama, but if I learned one thing from that conference, it's that you need to take solid breaks between long heavy-thinking sprints. More on this later, I guess. 
