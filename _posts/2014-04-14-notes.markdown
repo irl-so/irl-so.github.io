@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "Magic Strategies"
+date:   2014-04-14
+---
+
+>*She was meant to remember*. She faced that possibility as she might the toy street from a high balcony, roller-coaster ride, feeding-time among the beasts in a zoo--any death-wish that can be consummated by some minimum gesture. 
+(*The Crying of Lot 49*)
+
+Perhaps this all goes without saying. 
+
+For the last few weeks I've been in situations where I watch experts in various fields. They are in conference rooms, conferenc rooms in cities that never planned for children. They are impeccably and casually dressed, they are impossibly well-funded. They are having trouble loading their slides, which usually use large white Helvetica. They talk about what the future's going to be like, possibly, and who gets to be part of that future and whether or not that future's okay, and for whom it's okay. 
+
+Whether these futures are okay or not, they're all imbued with this ambivalent awe. We are in wonder of "reasonably" price $1200 drones, we speak with disgust at killing machines that are audaciously named *Reaper*. We are in wonder of data, we are horrified to find ourselves expendable and surveilled data points. We give thanks to the wonder of GPS, we speak in low tones about how its development was pushed along by the U.S. Department of Defense's desire to kill people with greater precision. Eyes wide, mouths covered, radiant with terror. 
+
+We have some words for these things, but they are like spells, already-old new rituals, soapy marbles in our mouths. *Innovation*. *Automation.* *Predictive*. *Open*. *Frictionless.*
+
+When I hear *frictionless* I think of a knife cutting through human flesh like a stick of butter. I think of shooting an AR-15 in a shooting range in Austin, Texas on my 24th birthday. It was a symbolic catharsis for years that were full of friction, full of inefficiencies and loss and words that are not smooth or opaque or beautiful. 
+
+But I digress. 
+
+> She tested it, shivering: I am meant to remember. Each clue that comes is *supposed* to have its own clarity, its fine chances for permanence. But then she wondered if the gemlike "clues" were only some kind of compensation. To make up for her having lost the direct, epileptic Word, the cry that might abolish the night. (*The Crying of Lot 49*)
+
+If this were as simple as words we wouldn't keep using them. It isn't, and by now we all understand it isn't, either killing machines or infinite freedom. We don't have Landsat *just* because someone with power wanted to kill people. We don't have the internet *just* because of threats of nuclear winter. There is no malevolent hooded figure scheming over palantiri. Conspiracies are born of coincidence and and convenience, not complexity or magic.
+
+And meanwhile, the idea of taking responsibility. And meanwhile, the idea of demanding accountability. And meanwhiles comingle in the soft light of a furniture store beyond which it snows, and the dusk deepens, and nobody really loves anybody. 
+
+(And I hesitate, because continuing to cite dead male novelists as a way to talk about *right now* is a bit of a cheap trick.)
+
+I keep coming back to this dissonant chord: a mapping startup enthusing over drones as a means of [mapping a beautiful future](https://www.mapbox.com/blog/drone-imagery-openstreetmap/), while at one point another employee [maps how they are used to end futures](http://chrisherwig.org/places/drones/#8.00/32.886/70.467). I take comfort in dissonance like this; it is not the formal bluster of a public company statement about militarized space but a recognition that perhaps they can see what is at stake. (Or that at least someone in the company does.) 
+
+> "Has it ever occurred to you, Oedipa, that somebody's putting you on? That this is all a hoax, maybe something Inverarity set up before he died?" It had occurred to her. But like the thought that someday she would have to die, Oedipa had been steadfastly refusing to look at that possibility directly, or in any but the most accidental of lights. 
+
+> Those, now that she was looking at them, she saw to be the alternatives. These symmetrical four. She didn't like any of them, but hoped she was mentally ill; that's all it was. (*The Crying of Lot 49*)
+
+So this impulse to dive into the rhetoric of magic is sort of obstinate. We know it's *not* magic behind the frictionless future but a confluence of math and bad faith. We know that the language obfuscating both employs magic, an assumption that for the nontechnical it is Far Too Complicated to explain. But there's something archly appealing about denying the politics and the algorithms their assumed supremacy and instead standing for weird faith. 
+
+These are not new confluences. [Johannes Trithemius](http://en.wikipedia.org/wiki/Johannes_Trithemius)' *Steganographia* was a book about cryptography disguised as a book about magic and communication with the dead. The Riverbank Papers, texts now considered fundamental to the study of cryptography, were written by William F. Friedman while he was researching ciphers thought to be in the poetry of Sir Francis Bacon. Loose threads in the narratives, pulled out and rearranged to turn defeats into subversions--Salem witches, Red Scares, The Nuremberg Chronicle, the Nuremberg Trials, Arendt and Eichmann, Arendt and Heidegger, *fragments are the only forms I trust.* ("See The Moon?", Donald Barthelme) 
+
+So. Astonishing killing machines are coming alive before us. We will collaborate, sometimes knowingly and sometimes not, with their making. We can make them weird, imbue them with magic, in that unknowability face and challenge its killer nature. I'm not always sure how to do that, but it's there, a peripheral gleam, like the postal horn or the Heartbleed logo.
