@@ -23,24 +23,26 @@ Even the manhole covers fade (more on manhole covers in a second).
 
 Google Streetview might be a useful source for finding old examples of markings, but I'm not expecting to get terrifically detailed material from that. 
 
-####Labels
+###Labels
 ![sidewalk](http://irl.so/img/20140421/DSC_0005.jpg)
 
 Color indicates the type of cable that's below ground. Orange means "telecommunication, alarm or signal lines, cables, or conduit", so I'm just looking at those. Usually some letters indicate who is responsible for the cable. I generally ignored the ones labeled "CATV" and "T"--"CATV" means "cable TV", and we're here for the internet; "T" I think might just be telephone. 
 
 The most common labels around 111 Eighth Avenue that I was looking at were L3 ([Level 3 Communications](http://www.level3.com/)), FO (which might be fiber-optic, or FiOs?), and ECS (Empire City Subway, the Verizon subsidiary responsible for maintaining all conduits in Manhattan and the Bronx). I'm not actually sure if ECS covers internet cables (if they do, it's not the only thing they cover), but it seems like there's no harm including it.
 
-####Manhole Covers
+###Manhole Covers
 
 ![sidewalk](http://irl.so/img/20140421/IMG_20140421_105455.jpg)
+
 Basically, where there's a manhole cover, there's probably cables. ECS has a lot of them, and their patterns are really nice. 
 
 ![sidewalk](http://irl.so/img/20140421/IMG_20140421_104021.jpg)
 
 I need to go take a better picture of the Time Warner manhole cover. It's really good, since their logo kind of suggests entering another dimension anyway.
 
-####This Thing
-![sidewalk](http://irl.so/img/20140421/DSC_0018.jpg)
+###This Thing
+
+![sidewalk](http://irl.so/img/20140421/DSC_0018.JPG)
 
 I just liked this. 
 
