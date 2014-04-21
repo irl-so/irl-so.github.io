@@ -1,0 +1,58 @@
+---
+layout: post
+title:  "Things You Learn Using Dumb Tools"
+date:   2014-04-21
+---
+
+Today I spent about an hour walking around the perimeter of 111 Eighth Avenue, trying to spot safety orange markings on the ground as part of my ongoing effort to [see the internet from the ground up](http://irl.so/2014/04/03/notes.html). 
+
+Using only phone and photo EXIF data as very clumsy GPS tools, here are some things I saw and notes about them. 
+
+(Here's [a map](irl.so/groundtruth) of some points of observation made with a combination of phone and photo data is here. You can click on the ones with pictures! The photos are mostly terrible, I took them as a hacky inefficient way to drop pins. Some of them are with a DSLR that doesn't collect GPS in its metadata, so they're points approximated from memory and Google Streetview.)
+
+##What You Look At When You Look For The Internet
+
+###History
+![sidewalk](http://irl.so/img/20140421/DSC_0003.jpg)
+
+Sidewalk markings aren't designed to last. They appear *in advance* of street work, not as a signifier of it. So when you look for markings, you often end up looking for fading fragments of them as well. 
+
+Even the manhole covers fade (more on manhole covers in a second). 
+
+![sidewalk](http://irl.so/img/20140421/DSC_0017.jpg)
+
+Google Streetview might be a useful source for finding old examples of markings, but I'm not expecting to get terrifically detailed material from that. 
+
+####Labels
+![sidewalk](http://irl.so/img/20140421/DSC_0005.jpg)
+
+Color indicates the type of cable that's below ground. Orange means "telecommunication, alarm or signal lines, cables, or conduit", so I'm just looking at those. Usually some letters indicate who is responsible for the cable. I generally ignored the ones labeled "CATV" and "T"--"CATV" means "cable TV", and we're here for the internet; "T" I think might just be telephone. 
+
+The most common labels around 111 Eighth Avenue that I was looking at were L3 ([Level 3 Communications](http://www.level3.com/)), FO (which might be fiber-optic, or FiOs?), and ECS (Empire City Subway, the Verizon subsidiary responsible for maintaining all conduits in Manhattan and the Bronx). I'm not actually sure if ECS covers internet cables (if they do, it's not the only thing they cover), but it seems like there's no harm including it.
+
+####Manhole Covers
+
+![sidewalk](http://irl.so/img/20140421/IMG_20140421_105455.jpg)
+Basically, where there's a manhole cover, there's probably cables. ECS has a lot of them, and their patterns are really nice. 
+
+![sidewalk](http://irl.so/img/20140421/IMG_20140421_104021.jpg)
+
+I need to go take a better picture of the Time Warner manhole cover. It's really good, since their logo kind of suggests entering another dimension anyway.
+
+####This Thing
+![sidewalk](http://irl.so/img/20140421/DSC_0018.jpg)
+
+I just liked this. 
+
+##Why My Tools Were Dumb
+
+So like, I'm pretty sure I was never in the center of 111 Eighth Avenue at any point today. But check out those points on the map that say I was! Phone location data is pretty okay, but intermittently picked up and imperfect. 
+
+I am hoping that using an actual GPS device the next time I walk around the Google offices for like, an hour will offer more detailed and interesting results. Walking along these markings also means if not walking in traffic outright then at least in the bike lane. So I'm going to be walking in the middle of the street in Manhattan, with my head down. Awesome. #deathwish
+
+##How I Did Things If That's Helpful To Know, or Check Out My Totally Dumb Workflow Because I Don't Know What I'm Doing
+
+* Exif Data: [GPSBabel](http://www.gpsbabel.org/), [kml to geojson](http://mapbox.github.io/togeojson/)
+* Phone Data: [Google Location History](http://maps.google.com/locationhistory) bulk download (individual KML results were kind of lame) to this neat lil' [Python script](https://github.com/Scarygami/location-history-json-converter/blob/master/location_history_json_converter.py) to [csv2geojson](https://www.npmjs.org/package/csv2geojson). 
+* Miscellany: [geojson.io](http://geojson.io)
+* Also: [Tom MacWright](http://www.macwright.org/) made most of these things I used today. Thanks Tom!
