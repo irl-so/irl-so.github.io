@@ -8,7 +8,7 @@ Today I spent about an hour walking around the perimeter of 111 Eighth Avenue, t
 
 Using only phone and photo EXIF data as very clumsy GPS tools, here are some things I saw and notes about them. 
 
-(Here's [a map](irl.so/groundtruth) of some points of observation made with a combination of phone and photo data is here. You can click on the ones with pictures! The photos are mostly terrible, I took them as a hacky inefficient way to drop pins. Some of them are with a DSLR that doesn't collect GPS in its metadata, so they're points approximated from memory and Google Streetview.)
+(Here's [a map](http://irl.so/groundtruth) of some points of observation made with a combination of phone and photo data is here. You can click on the ones with pictures! The photos are mostly terrible, I took them as a hacky inefficient way to drop pins. Some of them are with a DSLR that doesn't collect GPS in its metadata, so they're points approximated from memory and Google Streetview.)
 
 ##What You Look At When You Look For The Internet
 
