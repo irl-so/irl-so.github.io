@@ -19,6 +19,8 @@ So when you have a really stupid research intensive way of working, sometimes it
 
 ##Slightly trashy embarrassing reads
 * *Enemies Within*, Matt Apuzzo and Adam Goldman
+* This [Cryptome page](http://cryptome.org/2013-info/09/fbi-nypd/fbi-jttf-nypd-spy.htm)
+* And [this one too](http://cryptome.org/2013-info/09/nyc-spy-syzygy/nyc-spy-syzygy.htm)
 
 ##Reading About The Experience of Possibly Going Insane in the 1970s
 * *The Crying of Lot 49*, Thomas Pynchon
