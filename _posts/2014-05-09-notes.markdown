@@ -1,0 +1,70 @@
+---
+layout: post
+title:  "Astrology, Groundtruth, Etc."
+date:   2014-05-09
+---
+
+##Astrology
+
+Okay. So I made these. 
+
+![Seals](http://irl.so/img/20140509/DSC_0009.JPG)
+
+They are astrology charts for the "Five Eyes" signals intelligence agencies. 
+They are on gold mirrored acrylic. 
+They are 10 inches in diameter. 
+They are somewhere between "ancient seal or cipher" and "commemorative plate."
+
+I don't really know what they are or how I'm going to present them. 
+
+![NSA Seal](http://irl.so/img/20140509/DSC_0007.JPG)
+
+But they have something to do with this thing about magic and the unknown and what Kate Crawford recently mentioned has to do with *faith*--a big tricky word that people who do computer stuff tend not to like very much. 
+
+Part of it is inspired by this magazine I found a few months ago:
+
+![Mountain Astrologer](http://irl.so/img/20140509/DSC_0006.JPG)
+
+As someone who's not really that deep into astrology, I don't really know if it's any less insane than any other astrology article. But, it has a section titled "Ritual Sacrifice and Psyops", so maybe take it with a tablespoon of salt. Or like an entire bowl of salt. You can read it [here](http://northbayastrology.com/wp-content/uploads/2013/12/1013TMAsavinar-1.pdf). 
+
+These plaques are sort of mythology objects. We build these spooky institutions up with lore, and that lore is partly grounded in the idea that there's *still so much we don't know*. Part of it's also about origin stories--or, wanting things to have origins. Because when do you pinpoint the birth of an institution? When is the NSA's birthday? 
+
+The *Mountain Astrologer* article decided the NSA's birthday is on November 4, 1952--the date that Eisenhower legislated the National Security Agency into existence. Institutionally, this mostly makes sense; however, *ideologically* I'm not sure it's a true reflection of the NSA's origins. November 4, 1952, isn't the moment at which signals intelligence became a secretive peacetime activity by the United States government. It happened long before the formation of the NSA. What I guess I'm after is the birthdate of *spook culture* more than an institutional body, and if you want spook history I think May 20, 1919 is probably a better bet. That's the date that Herbert Yardley's Cipher Bureau (i.e., the Black Chamber) was formed, creating essentially a modern-day peacetime surveillance and interception operation. All of this had happened previously, but never quite like this--as a secret off-the-books agency, with a front company, in New York, having secret meetings with Western Union. 
+
+Then again, one could also make the case that July 19, 1929, is a more appropriate NSA birthdate, since that's when Henry Stimson basically reconstituted MI-8 under the leadership of William "The Riverbank Rogue" Friedman as the Signal Intelligence Service. Friedman as NSA forefather gives the agency a far more scholarly legacy, one of brilliant people who simply want to solve puzzles in addition to serve their country. (Also just kidding, no one ever called him the Riverbank Rogue.) He was trained as a geneticist but ended up working in cryptography through some weird turns in his life (also love, no really, his wife was this amazing cryptography expert) and developing some of the most foundational concepts to the field. [His lectures and essays](http://www.nsa.gov/about/_files/cryptologic_heritage/publications/prewii/friedman_legacy.pdf) on cryptography are honestly the best introductory material on the subject I've read. (though I say this as a not-crypto person, crypto friends may chide me for this, sorry guys)
+
+This is starting to feel like a detour into weird old history. Which I love! And I love that something as ridiculous as a gold mirror astrology chart can be a segway into this weird history. Debating the mythology that constitutes spy agencies is, for me, an instrument for undermining that mythology. And people who are simultaneously drawn to and repelled by the spook shit (which, frankly, seems to be a lot of people in the libtech and national security journalism world) kind of have to face their own role in building up that mythology, in building up weird spy vs. spy culture, in wanting to have the magic thing while dismantling the magic thing. So yeah. Gold mirrors. 
+
+(Sidenote: the Marshall Library has [scanned the entirety](http://www.marshallfoundation.org/library/friedman/books/American%20Black%20Chamber_II_watermark.pdf) of Friedman's annotated copy of Yardley's book, *The American Black Chamber*. It's AMAZING.)
+
+
+##Groundtruth
+
+![say hello to my little friend](http://irl.so/img/20140509/DSC_0010.JPG)
+
+I wanted to improve my methods of pinpointing fiber lines on the street, so I started using a GPS device. While the data is still at times thrown by basically inevitable errors that come up when using a GPS in an urban environment, it's a lot more accurate than phone data and slightly less tedious to work with than converting photo EXIF data to GeoJSON. (Also it gave me a pretext to write my first really basic shell script, with a lot of help referring to some previously made scripts by [Chris Henrick](https://github.com/clhenrick/shell_scripts).)
+
+To give you an idea of what I'm working with, here is a screenshot of all the point data pulled from the GPS when walking around the Google neighborhood:
+
+![GPS](http://irl.so/img/20140509/tracks.png)
+
+Which is insane. And kind of messy. And amazing! Such data. So detailed. Wow. There's a lot of fun details stored in the points, like how many sattelites were in view when that point was logged and velocity (ie how fast I was moving when that point was logged). 
+
+And this is what just the waypoints look like of things I could actually stand on top of and flag:
+
+![waypoints](http://irl.so/img/20140509/waypoints.png)
+
+Still pretty messy. Again, walking on top of fiber lines basically means you're walking in the street. So this is what it looks like when you take a bunch of waypoint data, clean it up, and use it to generate lines reflecting a walk following (or following as close as possible) fiber line markings on the street:
+
+![groundtruth](http://irl.so/img/20140509/fiber_111.png)
+
+Which is mostly cool for the level of detail in the lines, which you can't even really see on a web map but makes me really really happy: 
+
+![groundtruth](http://irl.so/img/20140509/fiber_detail.JPG)
+
+I think this might look nicer as a drawing or a poster than as a web map. Web maps are what I've been doing and they're kind of easy to put out there, but in this format it's hard to articulate the actual labor entailed to make those lines visible. I don't know. But I should probably figure it out before I give [this talk on Monday](http://www.eventbrite.com/e/eyebeam-lecture-with-ingrid-burrington-tickets-11541351493). 
+
+
+##Etc. 
+
+I also wrote this [weirdly long question](http://irl.so/2014/05/09/question.html) vaguely about standardization of things and computer vision. Just some things. On my mind. I don't know.

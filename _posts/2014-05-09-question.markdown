@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "A Question for Alex Provan That I'm Sending To The Internet Because He's Probably Too Busy For Emails"
+date:   2014-05-09
+---
+
+So earlier this week I went to [VLC001: Harmonization Bodies](http://www.veralistcenter.org/engage/event/1912/-vlc-001-2014mdashharmonization-bodies/), an event organized by VLC Fellow [Alex Provan](http://www.alexanderprovan.com/). It was good, kind of like watching a performance of an issue of *Cabinet Magazine* (I am not sure if that's what Provan would like to hear given that he edits a different [Weird Arty Sciency Magazine](http://canopycanopycanopy.com), but I mean it in the best way).
+
+The event ended earlier than they planned, so they weren't prepared to ask questions, but asked if there were any questions. I had a question I wanted to ask, but I wasn't really sure how to phrase it and I also got the impression that maybe questions weren't a thing that the panel wanted to do.
+
+It's sort of been bothering me, the question I mean. I thought about emailing it to Alex Provan but he is, I imagine, a really busy person, and the question is like actually pretty involved. Mostly I just am wondering if it's a part of this project he is working on and what he is reading to figure it out. Everyone I've asked this question to seems to have some strong feelings about it, so maybe someone else who isn't as busy as Alex Provan might have some insights.
+
+***
+
+The talk was about standards--the bodies that determine them, the biases that shape them, the ambivalence we have towards them. Some of that ambivalence seems to be around the fact that big groups of people get to decide what's "normal", and that "normal" is pretty subjective and imposes a certain world order on people and places and things. The World Bank needs an outside agency like the ISO to define standards of a "normal" nation-state, for example. 
+
+I've been thinking about persistent surveillance devices and how they determine what's normal or not normal. In this case I'm thinking of cameras, specifically traffic cameras; this could probably (if not now, eventually) apply to baby monitors and home temperature sensors and weather stations and loads of other things. But for now, let's talk about a camera, looking at a street. 
+
+A camera is trained on a landscape--by which I mean it stares at the landscape for a long period of time and, builds up a vocabulary of "normal" objects and events. It learns what the world is in terms of this landscape. Cars go one direction, the sun moves in this direction, pedestrians move across the street at this crosswalk generally at these speeds.
+
+If something out of the ordinary happens (a traffic jam, and accident, a mass protest taking the streets), the camera will register the event as an abnormal thing, and alert whatever authorities need to know about it. (This is one of those things that you don't)
+
+The camera and the software doesn't have this language for what it sees--it doesn't really know what "person" or "car" or "sunlight" is. It registers objects, maybe; but basically normal and not-normal are matters of photons and movement and time. 
+
+So the question I'm wondering about is whether this is *more of the same* in terms of the human tendency to invent arbitrary standards, *better* than the current methods of standardizing because its arbitrariness is a matter of code and not humanity, or *worse* than the current methods of standardizing because code can't be challenged the way that a human decision can be. 
+
+We can of course get into the "who wrote the code, what biases are in the code" arguments, and the "that space's definition of normal has been previously defined by arbitrary standards" arguments. Maybe the other question is, assuming that ultimately no one is going to answer that first question with a definitive position, *under what circumsntances* do we accept a machine's detached standards over ones made by humans? 
+
+And maybe these aren't particularly new arguments. Maybe this is totally irrelevant to Alex Provan's project. I don't know. But I want to know what people are thinking about these questions. 
