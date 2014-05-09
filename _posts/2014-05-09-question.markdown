@@ -18,12 +18,12 @@ I've been thinking about persistent surveillance devices and how they determine 
 
 A camera is trained on a landscape--by which I mean it stares at the landscape for a long period of time and, builds up a vocabulary of "normal" objects and events. It learns what the world is in terms of this landscape. Cars go one direction, the sun moves in this direction, pedestrians move across the street at this crosswalk generally at these speeds.
 
-If something out of the ordinary happens (a traffic jam, and accident, a mass protest taking the streets), the camera will register the event as an abnormal thing, and alert whatever authorities need to know about it. (This is one of those things that you don't)
+If something out of the ordinary happens (a traffic jam, and accident, a mass protest taking the streets), the camera will register the event as an abnormal thing, and alert whatever authorities need to know about it. 
 
 The camera and the software doesn't have this language for what it sees--it doesn't really know what "person" or "car" or "sunlight" is. It registers objects, maybe; but basically normal and not-normal are matters of photons and movement and time. 
 
 So the question I'm wondering about is whether this is *more of the same* in terms of the human tendency to invent arbitrary standards, *better* than the current methods of standardizing because its arbitrariness is a matter of code and not humanity, or *worse* than the current methods of standardizing because code can't be challenged the way that a human decision can be. 
 
-We can of course get into the "who wrote the code, what biases are in the code" arguments, and the "that space's definition of normal has been previously defined by arbitrary standards" arguments. Maybe the other question is, assuming that ultimately no one is going to answer that first question with a definitive position, *under what circumsntances* do we accept a machine's detached standards over ones made by humans? 
+We can of course get into the "who wrote the code, what biases are in the code" arguments, and the "that space's definition of normal has been previously defined by arbitrary standards" arguments. Maybe the other question is, assuming that ultimately no one is going to answer that first question with a definitive position, *under what circumstances* do we accept a machine's detached standards over ones made by humans? 
 
 And maybe these aren't particularly new arguments. Maybe this is totally irrelevant to Alex Provan's project. I don't know. But I want to know what people are thinking about these questions. 
