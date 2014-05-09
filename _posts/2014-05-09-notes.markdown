@@ -48,7 +48,7 @@ To give you an idea of what I'm working with, here is a screenshot of all the po
 
 ![GPS](http://irl.so/img/20140509/tracks.png)
 
-Which is insane. And kind of messy. And amazing! Such data. So detailed. Wow. There's a lot of fun details stored in the points, like how many sattelites were in view when that point was logged and velocity (ie how fast I was moving when that point was logged). 
+Which is insane. And kind of messy. And amazing! Such data. So detailed. Wow. There's a lot of fun details stored in the points, like how many satellites were in view when that point was logged and velocity (ie how fast I was moving when that point was logged). 
 
 And this is what just the waypoints look like of things I could actually stand on top of and flag:
 
@@ -60,7 +60,7 @@ Still pretty messy. Again, walking on top of fiber lines basically means you're 
 
 Which is mostly cool for the level of detail in the lines, which you can't even really see on a web map but makes me really really happy: 
 
-![groundtruth](http://irl.so/img/20140509/fiber_detail.JPG)
+![groundtruth](http://irl.so/img/20140509/fiber_detail.png)
 
 I think this might look nicer as a drawing or a poster than as a web map. Web maps are what I've been doing and they're kind of easy to put out there, but in this format it's hard to articulate the actual labor entailed to make those lines visible. I don't know. But I should probably figure it out before I give [this talk on Monday](http://www.eventbrite.com/e/eyebeam-lecture-with-ingrid-burrington-tickets-11541351493). 
 
