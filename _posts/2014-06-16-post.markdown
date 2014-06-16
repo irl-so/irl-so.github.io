@@ -4,13 +4,13 @@ title:  "Some Mysteries and Some Red Herrings"
 date:   2014-06-16
 ---
 
-![811 doesn't even know what this is](http://irl.so/20140616/DSC_0033.JPG)
+![811 doesn't even know what this is](http://irl.so/img/20140616/DSC_0033.JPG)
 
 So I mentioned last week that I had a bunch of loose threads that I was trying to figure out. Some of them might be useful to put out to the world, since there are probably a lot of people working on this sort of stuff or who know more about it than me. 
 
 ##Manhole Covers That Don't Appear to be Telco-Related
 
-![This manhole cover speaks LIES.](http://irl.so/20140616/bpm.JPG)
+![This manhole cover speaks LIES.](http://irl.so/img/20140616/bpm.JPG)
 
 So this is a manhole cover that most sources say stands for "Borough Manhattan President", and apparently it means that the manhole cover was constructed by the office of the borough president at...some point. I suppose there isn't any reason this wouldn't be a manhole cover that offered access to ECS ducts, but it's confusing. I've also seen some NYC sewer manhole covers with orange cable markings. 
 
@@ -18,15 +18,15 @@ One really important aspect of New York's internet infrastructure is that it's *
 
 ##Some Super-Confusing Markings and One Kind of Nice Obvious Connection Moment
 
-![No one knows what's even going on.](http://irl.so/20140616/DSC_0032.JPG)
+![No one knows what's even going on.](http://irl.so/img/20140616/DSC_0032.JPG)
 
 This is a larger image of the photo that started this blog post. That text reads "as per print". I think that this means the person sent to mark these cables by 811 doubts the map he was given. 
 
-![No one knows what's even going on.](http://irl.so/20140616/DSC_0038.JPG)
+![No one knows what's even going on.](http://irl.so/img/20140616/DSC_0038.JPG)
 
 So this either says "now fiber" or "new fiber" and the difference in those meanings is kind of important. The fact it's part of a path for TV cable is a nice reminder that lots, lots, lots of things run over fiber-optic cable--finding fiber doesn't always mean finding the internet. 
 
-![No one knows what's even going on.](http://irl.so/20140616/DSC_0039.JPG)
+![No one knows what's even going on.](http://irl.so/img/20140616/DSC_0039.JPG)
 
 It's just kind of nice when you see exactly where the cable's going. 
 
@@ -35,28 +35,28 @@ Investigating cable franchise agreements on DoITT's website also pointed me to D
 
 I've seen two variations of the equipment: some with antennas and some without antennas.  
 
-![Antennaed DAS.](http://irl.so/20140616/DSC_0035.JPG)
+![Antennaed DAS.](http://irl.so/img/20140616/DSC_0035.JPG)
 
-![Not antennaed DAS.](http://irl.so/20140616/DSC_0022.JPG)
+![Not antennaed DAS.](http://irl.so/img/20140616/DSC_0022.JPG)
 
 So I'm not sure if the ones without antennas are actually functional or not. Most of the not-antennaed ones I've seen have had fiber markings labeled "NXTG", which probably refers to NextG's franchise. NextG was acquired by competitor Cross Castle (who also have a separate franchise agreement with the city). 
 
 ##Office Building Dataspace
 A lot of the data centers of lower Manhattan are well-known and well-mapped. Midtown is a little bit harder to identify. Part of that might be because a lot of the data needs in Midtown are for big financial services companies in their big flagship skyscrapers. One of the things I'd started to think might indicate data space in these buildings were the rows and rows of vents staggered in different parts of the building, like this one on 1285 Avenue of the Americas: 
 
-![1285 Avenue of the Americas](http://irl.so/20140616/DSC_0042.JPG)
+![1285 Avenue of the Americas](http://irl.so/img/20140616/DSC_0042.JPG)
 
 I assumed this partly because 375 Pearl Street, a massive data center more commonly known to New Yorkers as "that hideous Verizon building you see coming over the Manhattan Bridge", has a few of these big vent-things.
 
-![375 Pearl Street](http://irl.so/20140606/DSC_0012.JPG)
+![375 Pearl Street](http://irl.so/20140606/img/DSC_0012.JPG)
 
 But that also could just be a sign of a mechanical floor, the centralized space dedicated to maintaining utility needs for the entire building--electricity and temperature and all sorts of other things, not just telecommunications. The many, many fans and cooling systems that are really obvious signifiers of a data center in northern Virginia are kind of just signifiers of scale on a Manhattan building. 
 
-![Here is the roof of an Equinix Data Center in Ashburn](http://irl.so/20140616/equinix.png)
+![Here is the roof of an Equinix Data Center in Ashburn](http://irl.so/img/20140616/equinix.png)
 
-![Here is the roof of 1285 Avenue of the Americas](http://irl.so/20140616/1251.png)
+![Here is the roof of 1285 Avenue of the Americas](http://irl.so/img/20140616/1251.png)
 
-![Here is the roof of 375 Pearl Street](http://irl.so/20140616/375p.png)
+![Here is the roof of 375 Pearl Street](http://irl.so/img/20140616/375p.png)
 
 Anecdata about the networks of major Midtown-based banks (Bank of America, JPMorgan) suggests that there's a fair amount of data space in the area, but also that there's a lot of cables in use--which makes sense, given the number of colocation centers directly across the river in Weehawken, NJ. (*Flash Boys* at one point mentions FO cables running through the Lincoln Tunnel to these nearby data centers; presumably there's a lot of direct, bank-controlled fiber lines in the area--I've only heard specifically about JPMorgan's.)
 
@@ -65,7 +65,7 @@ I suspect that Midtown's internet infrastructure has grown over the last few yea
 
 ####Past Networks: Pneumatic Tubes
 
-![Tuuuuuuubes](http://irl.so/20140616/Pneumatic-Tube-NYC-Vintage-Photo.jpg)
+![Tuuuuuuubes](http://irl.so/img/20140616/Pneumatic-Tube-NYC-Vintage-Photo.jpg)
 
 It's sometimes hard for me to believe that people in New York City actually used pneumatic tubes for correspondence because it just sounds too *delightful* to be true. Through the 27 miles of subterranean tubes in Manhattan, correspondence circulated at around 30 miles an hour. The New York Public Library used to use pneumatic tubes for sending requests for books to librarians; I've been lucky enough to see the desk in the old stacks where the tubes were sent. 
 
@@ -79,11 +79,11 @@ Of course, 30 Rock isn't the only building with television studios--there's the 
 
 ####C.R.E.A.M.--Cops Review Everything Around Me (via CCTV Cameras)
 
-![UBS logo, NYPD camera](http://irl.so/20140616/DSC_0045.JPG)
+![UBS logo, NYPD camera](http://irl.so/img/20140616/DSC_0045.JPG)
 
 1285 Avenue of the Americas is the [flagship office](http://financialservicesinc.ubs.com/branch/newyorkjg/) of UBS Financial Services in New York. Their logo's on the front entrance. There are other tenants, including advertising agency [BBDO](http://www.bbdo.com/) and technology services company [Rockefeller Group Technology Solutions](http://www.rgts.com/about/index.html). But I suspect that UBS is the reason there are two NYPD surveillance cameras on that block. 
 
-![UBS logo, NYPD camera](http://irl.so/20140616/1251_block.png)
+![UBS logo, NYPD camera](http://irl.so/img/20140616/1251_block.png)
 
 Midtown was the first area where the NYPD [expanded its Lower Manhattan Security Initiative](http://www.wnyc.org/story/73260-ring-of-steel-coming-to-midtown/). The neighborhood has hundreds of cameras, most of which have ID numbers (tangent: has anyone noticed the number of NYPD-marked cameras without ID numbers, and is that a normal thing?). 
 
