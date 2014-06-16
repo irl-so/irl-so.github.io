@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "I Swear I've Been Doing Stuff"
+date:   2014-06-09
+---
+
+![Here is my desk, covered in post-it notes.](http://irl.so/img/desk.jpg)
+
+See? How could I possibly use this many post-it notes and *not* be doing something productive? 
+
+No, but seriously, I haven't been keeping good track of what I've been doing since giving this [talk at Eyebeam with James](https://soundcloud.com/eyebeamnyc/one-on-one-conversations-ingrid-burrington-and-james-bridle) about the work we've both been doing. (Which was really fun, and I appreciate all the feedback I've received since then, honestly). There are two things that I haven't written much about that I've been doing.
+
+##Groundtruth
+
+So mostly I've just been going really hard on the internet groundtruth stuff, which is taking the form of a sort of field guide to networks in New York City. 
+
+![Screenshot of layout sketch for the field guide](fieldguide-sketch01.png)
+
+It's a topic that is filled with all my favorite research rabbit holes--city documents that aren't OCR-ed, private equity firms, and technical language related to construction that no amount of Googling seems to clarify. I've learned a lot about the politics of franchise agreements and how dated some of the street labels are at least in relation to corporate mergers and acquisitions. It's also been useful for thinking more about and better articulating ideas for what municipal fiber actually could look like in this city--because no matter what it looks difficult, but now I kind of better grasp what the difficulties actually are. 
+
+##Say It With Flowers
+
+I was lucky enough to get to spend some time a few weeks ago in the New York Public Library's Manuscripts and Archives division looking at the Bacon Cipher Archive, which includes a bunch of documents from Riverbank Labs, including both personal and professional texts written by William Friedman. Friedman, as described in an [earlier post](http://irl.so/2014/05/09/notes.html), is kind of a crucial figure in the history of American signals intelligence and in crypto pedagogy. 
+
+One of the documents I was lucky enough to spend some time looking at was this unpublished essay by Friedman titled "Say It With Flowers." In it, he explains principles of a certain kind of enciphering using different materials--"for any two things whatever are possible, proving only that they are susceptible of being distinguished by one of the senses." Variations of sound, of color, and even of arrangements of flowers could, in theory, be used to hide a secret message. 
+
+It's a beautiful essay and a really lovely insight into how Friedman thought through problems and thought about cryptography. I'm not really sure what I want to do related to it (other than possibly actually just arrange flowers) but it resonated a lot, and it's been on my mind. Something with that, maybe linked to the astrology stuff. Totemic objects, imaginary cults, etc. 
+
+Okay, back to rearranging post-it notes. 
